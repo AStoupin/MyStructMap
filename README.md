@@ -1,2 +1,2 @@
 # etl-mapstruct
-# Transformation example based on Mapstruct library
+Transformation example based on Mapstruct library
